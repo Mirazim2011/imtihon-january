@@ -1,0 +1,83 @@
+.restaurant-details {
+  background-color: #f9f9f9;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.restaurant-name {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 16px;
+}
+
+.restaurant-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.restaurant-description {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.restaurant-address {
+  margin-bottom: 24px;
+}
+
+.address-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.address-line {
+  font-size: 16px;
+  color: #555;
+}
+
+.restaurant-hours {
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+  margin-bottom: 24px;
+}
+
+.time-slots {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 12px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.time-slot {
+  background-color: orange;
+  color: #333;
+  text-align: center;
+  padding: 8px 0;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+.bg-green {
+  background-color: green;
+  color: #fff;
+  text-align: center;
+  padding: 8px 0;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "restaurant": {
+      "name": "Villagio Restaurant & Bar",
+      "address": {
+        "line1": "360 San Lorenzo Avenue, Suite",
+        "line2": "1430 Coral Gables, FL 33146-1865",
+        "getDirectionUrl": "#"
+      },
+      "hours": "10:30 AM - 11:00 PM",
+      "menuUrl": "#",
+      "description": "Villagio restaurant and bar has one mission: to provide guests with a fine and fresh seafood experience.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1133846306/photo/tasty-lunch.webp?s=2048x2048&w=is&k=20&c=304D3Xa5MH-BsnpghpjHX2JQ4pn4QqS2FwM1Ez9UXds=",
+          "alt": "Grilled seafood dish"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 5
+      }
+    },
+    "timeSlots": [
+      { "time": "10:30 AM", "available": true },
+      { "time": "10:45 AM", "available": true },
+      { "time": "11:30 AM", "available": true },
+      { "time": "12:00 PM", "available": true, "highlighted": true }
+    ]
+  },
+  {
+    "id": "2",
+    "restaurant": {
+      "name": "Ocean Breeze Café",
+      "address": {
+        "line1": "123 Coastal Road",
+        "line2": "Miami, FL 33101",
+        "getDirectionUrl": "#"
+      },
+      "hours": "8:00 AM - 8:00 PM",
+      "menuUrl": "#",
+      "description": "Ocean Breeze Café offers a relaxing seaside dining experience with fresh seafood and tropical drinks.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1138639733/photo/tasty-lunch.webp?s=2048x2048&w=is&k=20&c=qttG5B_l9b48hnjKuhWrKJYNWAJ6iEoBTohssPg4q98=",
+          "alt": "Seafood platter"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 3
+      }
+    },
+    "timeSlots": [
+      { "time": "8:30 AM", "available": true },
+      { "time": "9:00 AM", "available": true },
+      { "time": "9:30 AM", "available": true },
+      { "time": "10:00 AM", "available": false }
+    ]
+  },
+  {
+    "id": "3",
+    "restaurant": {
+      "name": "The Urban Kitchen",
+      "address": {
+        "line1": "456 Downtown Avenue",
+        "line2": "New York, NY 10001",
+        "getDirectionUrl": "#"
+      },
+      "hours": "11:00 AM - 10:00 PM",
+      "menuUrl": "#",
+      "description": "The Urban Kitchen serves modern cuisine inspired by the heart of the city.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1292972176/photo/group-of-friends-eating-breakfast-or-brunch-in-cafe-top-view-of-table.webp?s=2048x2048&w=is&k=20&c=inmDcBA79z5tkGHhFcjPfXoa4uKsGXNJopew1rHRVsk=",
+          "alt": "Modern urban dining"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 4
+      }
+    },
+    "timeSlots": [
+      { "time": "11:30 AM", "available": true },
+      { "time": "12:00 PM", "available": true },
+      { "time": "1:00 PM", "available": true },
+      { "time": "2:00 PM", "available": false }
+    ]
+  },
+  {
+    "id": "4",
+    "restaurant": {
+      "name": "Mountain Grill",
+      "address": {
+        "line1": "789 Summit Lane",
+        "line2": "Denver, CO 80203",
+        "getDirectionUrl": "#"
+      },
+      "hours": "7:00 AM - 9:00 PM",
+      "menuUrl": "#",
+      "description": "Mountain Grill offers hearty meals for adventurers and nature lovers alike.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1428594094/photo/empty-coffee-shop-interior-with-wooden-tables-coffee-maker-pastries-and-pendant-lights.webp?s=2048x2048&w=is&k=20&c=144CJxfAjuAqOAiwfA5BHNASS-sLBdZW5xBp8S2UTSg=",
+          "alt": "Grilled meat platter"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 6
+      }
+    },
+    "timeSlots": [
+      { "time": "7:30 AM", "available": true },
+      { "time": "8:00 AM", "available": true },
+      { "time": "8:30 AM", "available": false },
+      { "time": "9:00 AM", "available": true }
+    ]
+  },
+  {
+    "id": "5",
+    "restaurant": {
+      "name": "Tropical Delights",
+      "address": {
+        "line1": "101 Island Way",
+        "line2": "Honolulu, HI 96815",
+        "getDirectionUrl": "#"
+      },
+      "hours": "9:00 AM - 11:00 PM",
+      "menuUrl": "#",
+      "description": "Tropical Delights brings the flavors of Hawaii straight to your table.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1328662210/photo/bar-counter-in-the-luxurious-interior-of-the-restaurant-with-an-original-design.webp?s=2048x2048&w=is&k=20&c=ncGqT1RRszvcSNvvsXAANIPBKI4Mzq7Wxi1wOfxYaEI=",
+          "alt": "Hawaiian dishes"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 5
+      }
+    },
+    "timeSlots": [
+      { "time": "9:30 AM", "available": true },
+      { "time": "10:00 AM", "available": true },
+      { "time": "10:30 AM", "available": false },
+      { "time": "11:00 AM", "available": true }
+    ]
+  },
+  {
+    "id": "6",
+    "restaurant": {
+      "name": "Coastal Eats",
+      "address": {
+        "line1": "234 Ocean Boulevard",
+        "line2": "Santa Monica, CA 90401",
+        "getDirectionUrl": "#"
+      },
+      "hours": "10:00 AM - 9:00 PM",
+      "menuUrl": "#",
+      "description": "Coastal Eats serves fresh seafood with breathtaking ocean views.",
+      "readMoreUrl": "#"
+    },
+    "imageCarousel": {
+      "images": [
+        {
+          "url": "https://media.istockphoto.com/id/1073455468/photo/view-inside-a-bar-no-people.webp?s=2048x2048&w=is&k=20&c=c33jgCtLMiAp9T_UCa0iSOYRq_3gwqt0JCkPvpdcYZQ=",
+          "alt": "Seafood by the ocean"
+        }
+      ],
+      "navigation": {
+        "previous": true,
+        "next": true,
+        "dots": 4
+      }
+    },
+    "timeSlots": [
+      { "time": "10:15 AM", "available": true },
+      { "time": "11:00 AM", "available": true },
+      { "time": "12:30 PM", "available": true },
+      { "time": "1:30 PM", "available": false }
+    ]
+  }
+]
